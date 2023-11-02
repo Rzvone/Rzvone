@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rzvone" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Razvan+Bobonea!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=009C1B&center=true&vCenter=true&random=false&width=500&height=35&lines=Hello+There!+%F0%9F%91%8B+;I'm+Razvan+Bobonea!" />
 </h1>
 
 <h3 align="center">A passionate software developer from Romania with an interest in DevOps</h3>
