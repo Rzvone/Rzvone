@@ -45,12 +45,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-
-  ![snake gif](https://github.com/Rzvone/Rzvone/blob/output/github-contribution-grid-snake.gif)
   
-  <br/><br/><br/>
 </div>
 
 <hr/>
+
+  ![snake gif](https://github.com/Rzvone/Rzvone/blob/output/github-contribution-grid-snake.gif)
 
 
