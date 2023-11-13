@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a beauty salon website**
  
- 🌱 I’m currently learning **NextJs, Java, DevOps**
+ 🌱 I’m currently learning **DevOps**
 
  ⚡ Fun fact **The first computer bug was actually a moth**
  
