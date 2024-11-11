@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href='https://gitlab.com/Rzvone'>
-    <img src="https://images.ctfassets.net/xz1dnu24egyd/3x9aqmYENWXOnGiU5P9VSV/6a076a36572ab20d1e07c8364d5578ae/gitlab-logo-200-preview.png" alt="gitlab" style="width: 120px; height: 28px;" />
+    <img src="https://images.ctfassets.net/xz1dnu24egyd/3x9aqmYENWXOnGiU5P9VSV/6a076a36572ab20d1e07c8364d5578ae/gitlab-logo-200-preview.png" alt="gitlab" style="width: 120px; height: 28px; background-color: 'black';" />
   </a>
   <a href="mailto:bobonea.razvan.ctin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
