@@ -7,16 +7,6 @@
 <h3 align="center">A passionate software developer from Romania with an interest in DevOps</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a beauty salon website**
- 
- 🌱 I’m currently learning **DevOps**
-
- ⚡ Fun fact **The first computer bug was actually a moth**
- 
- </div>
  
 <div align="center"> 
   <a href='https://gitlab.com/Rzvone'>
